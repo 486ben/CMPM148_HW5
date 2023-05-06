@@ -2,7 +2,7 @@
 
 Introduction pages: https://docs.google.com/document/d/1Nw4gxkv6gPyso6-aX9l-Mr6b3N-i-kfHRCVwcUNRaeE/edit?usp=sharing
 
-Game Playable link:
+Game Playable link: https://486ben.github.io/CMPM148_HW5/
 
 Rule: 
 <li>I have a time represented in the system. </li>
